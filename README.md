@@ -1,4 +1,4 @@
-# papers-notes
+# paper-notes
 This repository includes some paper notes that I read myself
 
 
